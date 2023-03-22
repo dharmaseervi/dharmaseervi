@@ -12,6 +12,6 @@
 
 ## :chart_with_upwards_trend: My GitHub stats
 
-![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharmaseervi&show_icons=true&theme=dracula)
+
 
 
