@@ -1,4 +1,4 @@
-<h1 align="center">Dharma Seervi</h1>
+<h1 align="center">Dharma</h1>
 <p align="center">
   <strong>Full-stack developer · Bengaluru, India</strong><br/>
   I build software that businesses actually run on.
@@ -97,5 +97,5 @@ iOS app for paint dealers. Upload a price-list PDF → Claude API extracts items
 
 <p align="center">
   <em>Open to full-stack, backend, and mobile roles — Bengaluru or remote across India.</em><br/>
-  <a href="mailto:dharmaseervi@gmail.com">📧 Email me</a>
+  <a href="mailto:dharmaseervijb18239@gmail.com">📧 Email me</a>
 </p>
